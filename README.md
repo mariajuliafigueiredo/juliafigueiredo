@@ -9,6 +9,6 @@ Graduada em Análise e Desenvolvimento de Sistemas pela PUC Minas. Atualmente fo
 
 ---
 
-## 🐍 Meu Jogo da Cobrinha
+## 🐍 cobrinha faminta abaixo
 
 ![Snake Game](https://raw.githubusercontent.com/mariajuliafigueiredo/mariajuliafigueiredo/output/github-contribution-grid-snake-dark.svg)
